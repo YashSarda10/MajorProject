@@ -1,2 +1,2 @@
-# MajorProject
+# Major Project
 Transfer Learning 
